@@ -25,6 +25,7 @@ cat sp[TAB]
 ![Bandit Level 2 - 3](sslevel2-3.png)
 
 **Penjelasan :** Nama file harus dibungkus dengan tanda kutip atau setiap spasi dipisahkan dengan tanda "\"
+
 **Password :** 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME 
 
 ## Conclusion
