@@ -6,7 +6,8 @@ Login ke Server Bandit menggunakan SSH dengan kredensial yang diberikan
 ## Solution
 Membuka Command Prompt dan mengetik command : 
 
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220```
 Password: bandit0
 
 ![Bandit Level 0](sslevel0.png)
