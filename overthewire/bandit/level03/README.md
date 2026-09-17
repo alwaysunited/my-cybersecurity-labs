@@ -24,5 +24,8 @@ cat sp[TAB]
 ```
 ![Bandit Level 2 - 3](sslevel2-3.png)
 
+**Penjelasan :** Nama file harus dibungkus dengan tanda kutip atau setiap spasi dipisahkan dengan tanda "\"
+**Password :** 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME 
+
 ## Conclusion
 Di level ini kita diminta untuk mencari password untuk level berikutnya. Namun terdapat tantangan yaitu, password itu mengandung spasi, jadi tidak bisa ditangani dengan command biasa. Karena jika menggunakan command biasa, maka linux akan menganggapnya sebagai file yang terpisah
