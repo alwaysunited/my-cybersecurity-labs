@@ -22,7 +22,7 @@ cat /home/bandit1/-
 # Menggunakan Relative Path
 cat ./-
 ```
-![Bandit Level 1 - 2}(sslevel1-2.png)
+![Bandit Level 1 - 2](sslevel1-2.png)
 
 **Penjelasan** : Dengan menambahkan ./ sebelum nama file membuat bash memahami bahwa "-" nama file, bukan opsi command
 **Password** : PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
